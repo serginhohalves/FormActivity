@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SharedPreferencesActivity</string>
+    <string name="hint_name">Name</string>
+    <string name="etEmail">Email</string>
+    <string name="etGender">Gender</string>
+    <string name="hint_day">Day</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_month">Month</string>
+    <string name="hint_year">Year</string>
+    <string name="Save">Save</string>
+    <string name="data_saved_sucessfully">Dados salvos com sucesso</string>
+</resources>
